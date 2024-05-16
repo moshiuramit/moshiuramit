@@ -1,6 +1,6 @@
 ### Hi there 👋
-🔭 I’m currently working on gsap, nextJS, React, Laravel, Wordpress etc.
-🌱 I’m currently learning Next.js, JavaScript, and Rest API implementation. 
+- 🔭 I’m currently working on gsap, nextJS, React, Laravel, Wordpress etc.
+- 🌱 I’m currently learning Next.js, JavaScript, and Rest API implementation. 
 <!--
 **moshiuramit/moshiuramit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
